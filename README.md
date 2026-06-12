@@ -4,7 +4,6 @@
 # EaglercraftZ 26.1.2
 
  - We bring to you the latest addition of the popular kid's game, Minecraft... in a web browser?
- - That's right, and screw Mojang!
 
 # Things different from older versions
 
